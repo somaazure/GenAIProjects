@@ -1,11 +1,11 @@
 # GenAIProjects
-Generative AI Projects
-Output of the Script :
+Generative AI Projects:
+***This Script gives Customer recommendation based on the Location. Created sing Pyspark Dataframe.**
+Sample Output of the Script :
 
 ![image](https://github.com/user-attachments/assets/261f712f-24f4-40aa-a49f-0a6e84ec0cd1)
 
 
-OpenAI API Key exists and begins with: sk-Q831r
 Store Information with Full Address and Famous Items:
 +-----------+--------+----------+-----------+-----+-------+----------------------------------+----------------------------------+
 |city       |store_id|store_name|street     |state|zipcode|famous_items                      |full_address                      |
